@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on mastering Data Structures and Algorithms using C++ and Java.<br>I am also a Web Developer.<br>I am familiar with HTML,CSS,JavaScript and ReactJS,
+I am currently working on mastering Data Structures and Algorithms using C++ and Java.<br>I am also a Web Developer.<br>I am familiar with HTML,CSS,JavaScript and ReactJS
 
 
 ## 🌐 Socials:
